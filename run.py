@@ -9,7 +9,7 @@
 """
 
 # IMPORTS
-from nettest._interface import main
+from nettest.__main__ import main
 
 if __name__ == "__main__":
     main()

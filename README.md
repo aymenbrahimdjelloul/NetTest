@@ -92,12 +92,6 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
-
-**Aymen Brahim Djelloul**
-
-- GitHub: [@aymenbrahimdjelloul](https://github.com/aymenbrahimdjelloul)
-
 ## 🐛 Issues
 
 If you encounter any issues or have suggestions, please [open an issue](https://github.com/aymenbrahimdjelloul/NetTest/issues) on GitHub.
